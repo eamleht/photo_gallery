@@ -1,5 +1,5 @@
 from django.contrib import admin
 
-# Register your models here. Blu blblbl dsfjhkladjsfkljdlsfk
+# Register your models here. Blu blblbl dsfjhkla
 
 
